@@ -175,3 +175,71 @@ main {
     line-height: 1.5rem;
     font-weight: 400;
 }
+
+/* -------Responsividade-------*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .noticias {
+        margin: 0 20%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .header {
+        margin: 0 10%;
+    }
+
+    .header_nav {
+        padding-bottom: 5%;
+        font-size: 1rem;
+    }
+
+    .header_pesquisar i{
+        margin: 0.3% 0.3%;
+    }
+
+    .header_input {
+        padding-left: 6%;
+    }
+    
+}
+
+@media (min-width: 482px) and (max-width: 767px) {
+    .header {
+        margin: 0 10%;
+    }
+
+    .header_nav {
+        padding-top: 3%;
+        padding-bottom: 8%;
+        font-size: 1rem;
+    }
+
+    .header_pesquisar i{
+        margin: 0.2% 1%;
+    }
+
+    .header_input {
+        padding-left: 10%;
+    }
+}
+
+@media (min-width:320px) and (max-width: 480px) {
+    .header {
+        margin: 0 10%;
+    }
+
+    .header_nav {
+        padding-top: 5%;
+        padding-bottom: 8%;
+        font-size: 1rem;
+    }
+
+    .header_pesquisar i{
+        margin: 0 2%;
+    }
+
+    .header_input {
+        padding-left: 12%;
+    }
+}
