@@ -103,6 +103,20 @@ header {
     color: var(--white);
     
     top: 40%;
-    left: 2%;
-    
+    left: 2%;   
+}
+
+/* -------Main-------*/
+
+main { 
+    box-sizing: border-box;
+    background-color: var(--gray);
+    min-width: calc(100vh - 30vh);
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    font-family: 'Inter', sans-serif;
+    padding-top: 7%;
 }
