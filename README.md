@@ -3,7 +3,7 @@
 O desafio Codelândia Blog foi um desafio organizado pelo <a href="https://github.com/iuricode">@iuricode</a> para quem faz parte da comunidade do Discord Codelândia. O objetivo é colocar em prática os conhecimentos acerca de HTML, CSS e JavaScript. 
 O projeto consiste em um blog de notícias, no qual o usuário pode utilizar a barra de input e encontrar uma notícia específica.
 
-Para visitar o projeto, <a href="https://nataliakrein.github.io/desafio-codelandia/">clique aqui</a>.
+Para visitar o projeto, <a href="https://blog-codelandia-d1.vercel.app/">Clique Aqui</a>.
 
 Aprendizados:
 <ul>
