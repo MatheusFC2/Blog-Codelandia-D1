@@ -164,7 +164,6 @@ main {
 .noticias_info i:hover {
     transition: all .3s ease-in-out .1s;
     transform: translateY(-6px);
-
 }
 .noticia {
     margin-bottom: 2%;
