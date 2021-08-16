@@ -98,7 +98,7 @@ header {
     color: var(--white);  
 }
 
-.header_ input:focus {
+.header_input:focus {
     box-shadow: 0 0 0 0;
     outline: 0;
 }
@@ -109,9 +109,7 @@ header {
     
     top: 30%;
     left: 2%;
-    
 }
-
 /* -------Main-------*/
 
 main {
@@ -163,6 +161,11 @@ main {
     color: var(--blue-dark);
 }
 
+.noticias_info i:hover {
+    transition: all .3s ease-in-out .1s;
+    transform: translateY(-6px);
+
+}
 .noticia {
     margin-bottom: 2%;
 }
